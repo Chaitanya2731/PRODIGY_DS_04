@@ -33,9 +33,12 @@ To analyze social media text data and classify sentiments as positive, negative,
 
 ### 📊 Sentiment Distribution
 Sentiment distribution visualization.
+<img width="589" height="455" alt="download" src="https://github.com/user-attachments/assets/de8ae5ce-b9c3-4f38-8a81-c63102d37ea3" />
 
 ### 📊 Confusion Matrix
 Confusion matrix showing prediction results.
+<img width="518" height="393" alt="download" src="https://github.com/user-attachments/assets/d9a9a3ca-bedb-4d75-8145-04c361339735" />
 
 ### 📈 Accuracy Output
 Accuracy score for sentiment classification model.
+<img width="737" height="472" alt="main" src="https://github.com/user-attachments/assets/6a800f54-8e9a-4523-99fa-1c51821be3f9" />
